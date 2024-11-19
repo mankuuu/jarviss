@@ -12,3 +12,4 @@ langchain-groq
 streamlit
 pymysql
 langchain_chroma
+sqlite = 3.35
