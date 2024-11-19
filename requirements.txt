@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain-ollama
+mysql-connector-python
+pymysql
+chromadb
+langsmith
+transformers
+sentencepiece
+pandas
+llama-cpp-python
+langchain-groq
+streamlit
+pymysql

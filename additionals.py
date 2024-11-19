@@ -1,0 +1,1 @@
+suffix = " Only return the SQL query, Nothing else."
